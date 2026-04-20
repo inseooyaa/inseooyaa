@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&height=200&section=header&text=SYSTEM%20ONLINE&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&height=200&section=header&text=Ngapain%Lu%20jir&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
   
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-brightgreen?style=for-the-badge&logo=statuspage" />
   <img src="https://img.shields.io/badge/TIMEZONE-GMT%2B8-00ffcc?style=for-the-badge&logo=clock" />
@@ -62,7 +62,7 @@
 # 🕹️ Player Statistics:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TerraDerrada&theme=dracula&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inseooyaa&theme=dracula&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
@@ -71,12 +71,12 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=TerraDerrada&theme=dracula&hide_border=false" width="100%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=inseooyaa&theme=dracula&hide_border=false" width="100%" />
 </p>
 
 ## 🏆 Achievements & Loot
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TerraDerrada&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=inseooyaa&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
@@ -84,7 +84,7 @@
 <div align="center">
   <br>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=TerraDerrada&icon=5&color=4" alt="Visitor Count" />
+    <img src="https://visitcount.itsvg.in/api?id=inseooyaa&icon=5&color=4" alt="Visitor Count" />
   </a>
   <br><br>
   <p><code>[SYSTEM] End of file. Disconnecting...</code></p>
