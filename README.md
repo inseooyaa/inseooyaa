@@ -66,8 +66,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TerraDerrada&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerraDerrada&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inseooyaa&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inseooyaa&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </p>
 
 <p align="center">
