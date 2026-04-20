@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-brightgreen?style=for-the-badge&logo=statuspage" />
   <img src="https://img.shields.io/badge/TIMEZONE-GMT%2B8-00ffcc?style=for-the-badge&logo=clock" />
   <img src="https://img.shields.io/badge/LOCATION-INDONESIA-orange?style=for-the-badge&logo=googlemaps" />
+  <img src="https://img.shields.io/date/1602710400?label=ACCOUNT%20CREATED&style=for-the-badge&color=blue&logo=github" />
 </div>
 
 <br>
@@ -94,5 +95,5 @@
   </a>
   <br><br>
   <p><code>[SYSTEM] End of file. Disconnecting...</code></p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXF6Mmt6ZzB6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z/L1S1mQYm7S9zO/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mmt6ZzB6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z/L1S1mQYm7S9zO/giphy.gif" width="30">
 </div>
